@@ -1,0 +1,222 @@
+мая 08, 2022 11:36:01 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:01 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:01 AM CountingSemaphore acquire
+INFO: Захват семафора на 1073741823
+мая 08, 2022 11:36:02 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:02 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:02 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:02 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:07 AM Writer run
+INFO: Writing
+мая 08, 2022 11:36:07 AM CountingSemaphore release
+INFO: Освобождение семафора на 1073741823
+мая 08, 2022 11:36:07 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:07 AM CountingSemaphore acquire
+INFO: Захват семафора на 1073741823
+мая 08, 2022 11:36:08 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:08 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:13 AM Writer run
+INFO: Writing
+мая 08, 2022 11:36:13 AM CountingSemaphore release
+INFO: Освобождение семафора на 1073741823
+мая 08, 2022 11:36:13 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:13 AM CountingSemaphore acquire
+INFO: Захват семафора на 1073741823
+мая 08, 2022 11:36:14 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:14 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:19 AM Writer run
+INFO: Writing
+мая 08, 2022 11:36:19 AM CountingSemaphore release
+INFO: Освобождение семафора на 1073741823
+мая 08, 2022 11:36:19 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:19 AM CountingSemaphore acquire
+INFO: Захват семафора на 1073741823
+мая 08, 2022 11:36:20 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:20 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:25 AM Writer run
+INFO: Writing
+мая 08, 2022 11:36:25 AM CountingSemaphore release
+INFO: Освобождение семафора на 1073741823
+мая 08, 2022 11:36:25 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:25 AM CountingSemaphore acquire
+INFO: Захват семафора на 1073741823
+мая 08, 2022 11:36:26 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:26 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:31 AM Writer run
+INFO: Writing
+мая 08, 2022 11:36:31 AM CountingSemaphore release
+INFO: Освобождение семафора на 1073741823
+мая 08, 2022 11:36:31 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:31 AM CountingSemaphore acquire
+INFO: Захват семафора на 1073741823
+мая 08, 2022 11:36:32 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:32 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:37 AM Writer run
+INFO: Writing
+мая 08, 2022 11:36:37 AM CountingSemaphore release
+INFO: Освобождение семафора на 1073741823
+мая 08, 2022 11:36:37 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:37 AM CountingSemaphore acquire
+INFO: Захват семафора на 1073741823
+мая 08, 2022 11:36:38 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:38 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:43 AM Writer run
+INFO: Writing
+мая 08, 2022 11:36:43 AM CountingSemaphore release
+INFO: Освобождение семафора на 1073741823
+мая 08, 2022 11:36:43 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:43 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:43 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:44 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:44 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:44 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:44 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:44 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:44 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:44 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:44 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:44 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:45 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:45 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:45 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:45 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:45 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:45 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:45 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:45 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:45 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:46 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:46 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:46 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:46 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:46 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:46 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:46 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:46 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:46 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:47 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:47 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:47 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:47 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:47 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:47 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:47 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:47 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:47 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:48 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:48 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:48 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:48 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:48 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:48 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:48 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:48 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:48 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:49 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:49 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:49 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:49 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:49 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:49 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:49 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:49 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:49 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:50 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:50 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:50 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:50 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:50 AM CountingSemaphore acquire
+INFO: Захват семафора на 1
+мая 08, 2022 11:36:50 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:50 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
+мая 08, 2022 11:36:51 AM Reader run
+INFO: Reading
+мая 08, 2022 11:36:51 AM CountingSemaphore release
+INFO: Освобождение семафора на 1
